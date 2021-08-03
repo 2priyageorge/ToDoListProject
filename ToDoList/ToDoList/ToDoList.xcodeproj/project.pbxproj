@@ -17,6 +17,7 @@
 		BD8D7E7B26B8329300A74D8C /* ToDoListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8D7E7A26B8329300A74D8C /* ToDoListUITests.swift */; };
 		BD8D7E8D26B836FE00A74D8C /* ToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8D7E8C26B836FE00A74D8C /* ToDo.swift */; };
 		BD8D7E8F26B83D1000A74D8C /* ToDoViewController2TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8D7E8E26B83D1000A74D8C /* ToDoViewController2TableViewController.swift */; };
+		BD8D7E9126B84C6100A74D8C /* AddToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8D7E9026B84C6100A74D8C /* AddToDoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		BD8D7E7C26B8329300A74D8C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BD8D7E8C26B836FE00A74D8C /* ToDo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo.swift; sourceTree = "<group>"; };
 		BD8D7E8E26B83D1000A74D8C /* ToDoViewController2TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoViewController2TableViewController.swift; sourceTree = "<group>"; };
+		BD8D7E9026B84C6100A74D8C /* AddToDoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToDoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				BD8D7E8E26B83D1000A74D8C /* ToDoViewController2TableViewController.swift */,
 				BD8D7E6626B8329300A74D8C /* Info.plist */,
 				BD8D7E5E26B8329100A74D8C /* ToDoList.xcdatamodeld */,
+				BD8D7E9026B84C6100A74D8C /* AddToDoViewController.swift */,
 			);
 			path = ToDoList;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 				BD8D7E5626B8329100A74D8C /* AppDelegate.swift in Sources */,
 				BD8D7E8F26B83D1000A74D8C /* ToDoViewController2TableViewController.swift in Sources */,
 				BD8D7E5826B8329100A74D8C /* SceneDelegate.swift in Sources */,
+				BD8D7E9126B84C6100A74D8C /* AddToDoViewController.swift in Sources */,
 				BD8D7E6026B8329100A74D8C /* ToDoList.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
